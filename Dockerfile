@@ -1,4 +1,4 @@
-FROM fpftech/python_oracle:1.0.0
+FROM fpftech/python_oracle:1.0.1-postgres
 LABEL maintainer="portela.eng@gmail.com"
 
 ADD requirements.txt ${APP_FOLDER}/
