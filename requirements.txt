@@ -5,4 +5,4 @@ coverage==4.5.4
 python-dateutil==2.8.0
 django==2.2.5
 django-money==0.15
-
+model_mommy==1.6.0
