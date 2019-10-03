@@ -7,4 +7,3 @@ django==2.2.5
 django-money==0.15
 model_mommy==1.6.0
 django-hashid-field==2.1.6
-psycopg2-binary==2.8.2
